@@ -34,7 +34,7 @@ git checkout master
 
 ```
 
-# Rename files
+# Some commands
 
 ```
 git mv file1 file2          # rename files
