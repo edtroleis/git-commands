@@ -31,7 +31,6 @@ git log --author="Eduardo"
 ```
 git checkout <commit_id>
 git checkout master
-
 ```
 
 # Some commands
